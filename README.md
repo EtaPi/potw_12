@@ -52,3 +52,6 @@ RBRRBBRBBR
 BRBBRRBRRB
 BBRRBRBBRR
 ```
+
+[1]: https://itunes.apple.com/us/app/0h-h1/id936504196?mt=8
+[2]: https://play.google.com/store/apps/details?id=com.q42.ohhi
